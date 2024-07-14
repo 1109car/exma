@@ -1,0 +1,183 @@
+.tamano{
+    background-color: black !important;
+}
+.mostrar{
+    position: absolute;
+    z-index: 3;
+    background-color: transparent !important;
+    width: 100%;
+    
+
+}
+.mostrar_hijo{
+    display: flex;
+    justify-content: end;
+    height: 12vh;
+ 
+
+}
+.mostrar_bb {
+    display: flex;
+    justify-content: end;
+  
+}
+.mostrar_bb ul{
+    gap: 22px !important;
+    margin-right: 1%;
+    height: 5vh !important;
+    
+}
+
+a{ 
+    position:  relative !important;
+    display: inline-block !important;
+    font-family: inherit !important;
+    font-weight: bold !important;
+    letter-spacing: 1.5px !important;
+    box-sizing: inherit !important;
+    line-height: 1.5 !important;
+    box-shadow: none !important;
+}
+a:hover{
+    color: #EEC344 !important; 
+}
+.design:hover{
+    display: inline-block !important;
+  text-decoration: none !important;
+  color: #EEC344 !important;
+  font-weight: bold !important;
+  font-size: 14px !important;
+  position: relative !important;
+  padding: 0.5rem 2.5rem !important;
+  overflow: hidden !important;
+  transition: 0.3s ease !important;
+  margin-bottom: 0px !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+.cafe{
+    position: relative;
+    top: -9%;
+    margin-left: 2%;
+    width: 100%;
+    height: 100%;
+}
+.contenedor_cafe{
+    width: 11%;
+    height: 59%;
+}
+.contenedor_item{
+    text-align: center !important;
+    width: 100%;
+    height: 120vh !important;
+}
+.imagen_blog{
+    opacity: 0.7 !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.absolu{
+    position: absolute !important;
+    text-align: center !important;
+    top: 48%;
+}
+.absolu h5{
+    margin-bottom: 5%;  
+    font-size: 3.5rem;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+}
+.flechas{
+   width: 25%;
+   height: 7%;
+}
+.absolu a{
+    text-decoration: none;
+    text-align: center !important;
+    color: #eec344;
+    border: solid #eec344 2px !important;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: 700 !important;
+}
+.seccion{
+    margin-top: 10%;
+}
+.col h2{
+    font-size: 2.4rem;
+  font-weight: 600;
+}
+.col h5{
+    color: #46866C;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+}
+.col p{
+  font-family: 'Poppins', sans-serif !important;
+  color: #8c8c8c;
+  font-weight: 500 !important;
+  line-height: 2;
+  font-size: 15px;
+}
+figure{
+    width: 25%;
+}
+figure img{
+width: 100%;
+height: 100%;
+}
+.col a{
+    text-decoration: none;
+    text-align: center !important;
+    color: #eec344;
+    border: solid #eec344 2px !important;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 6%;
+    padding-right: 6%;
+    font-weight: 700 !important;
+}
+.containervideo{
+    width: 100%; 
+    height: 100%;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+.contenidovideo{
+    width: 40%;
+}
+video{
+    
+    width: 100% !important;
+    height: 100% !important;
+}
+.colos p{
+    font-family: 'Poppins', sans-serif !important;
+    color: #8c8c8c;
+    font-weight: 500 !important;
+    line-height: 2;
+    font-size: 15px;
+}
+.colos h3{
+    font-size: 30px !important;
+    font-weight: 700;
+}
+.footer_general{
+    display: flex;
+    border-top: solid rgb(80, 79, 79) 1px;
+}
+.contenedor_footer{
+    margin-top: 5%;
+   width: 20% !important;
+   height: 50% !important;
+   gap:50px !important;
+
+}
+.contenedor_footer img{
+    width: 100%;
+    height: 100%;
+}
+.contenedor_footer p{
+    text-align: justify;
+}
